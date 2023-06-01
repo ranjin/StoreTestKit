@@ -1,0 +1,6 @@
+framework module storeTestKit {
+  umbrella header "storeTestKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
